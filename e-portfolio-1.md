@@ -13,7 +13,7 @@ Klessascheck, F, Weber, I & Pufahl, L 2025, ‘SOPA: a framework for sustainabil
 **Link:** https://ceur-ws.org/Vol-4032/paper-08.pdf.  
 Rubensson shows how process mining turns event data into process models visually. Nevertheless, classic visualisations only describe control flow and may be complicated "spaghetti models" when there are numerous activities and variations in processes. The article suggests a contextual, interactive and optimised visual layout considering such dimensions as time, location and others. Such layouts may assist analysts to investigate complicated processes better (Rubensson 2025, pp. 46-48).  
 This artefact was chosen due to the fact that process mining was introduced as one of the approaches to collect and analyse information in Week 3 lecture. From the article, I got knowledge that collecting of event data is useless if analysts cannot interpret it correctly. Interactive visualisations may show process variations, delays and connections that are invisible in static models. Consequently, visual process mining gives a clearer picture of the current process in the organization.  
-**Reference:**
+**Reference:**  
 Rubensson, C 2025, ‘Visual process mining over time and space’, in H Reijers et al. (eds), Joint proceedings of the Best Dissertation Award, Doctoral Consortium, and Demonstration and Resources Forum at BPM 2025, CEUR Workshop Proceedings, vol. 4032, pp. 46–55, viewed 3 August 2026, https://ceur-ws.org/Vol-4032/paper-08.pdf.  
 
 ## Porter’s Value Chain Analysis  
