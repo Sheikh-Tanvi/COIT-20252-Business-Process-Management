@@ -46,5 +46,9 @@ The artefact was chosen due to its practicality in helping us understand and imp
 Pomper, L 2025, ‘Why all small businesses should use this in 2026’, YouTube, 4 December, viewed 29 July 2026, https://www.youtube.com/watch?v=9UVURYCaKWk.  
 
 ## AI Disclosure  
+I utilised generative AI tools for planning, idea development, and research.
+Specifically, ChatGPT by OpenAI (2026) was used to support language structuring and concept refinement.  
+
   
+
 
