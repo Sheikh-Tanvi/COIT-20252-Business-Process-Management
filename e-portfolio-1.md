@@ -45,4 +45,6 @@ The artefact was chosen due to its practicality in helping us understand and imp
 **Reference:**  
 Pomper, L 2025, ‘Why all small businesses should use this in 2026’, YouTube, 4 December, viewed 29 July 2026, https://www.youtube.com/watch?v=9UVURYCaKWk.  
 
+## AI Disclosure  
+  
 
