@@ -12,7 +12,9 @@
 ## Human Involvement in Process Analysis
 **Artefact type:** peer reviewed journal article  
 **Link:** https://doi.org/10.1007/s10257-024-00695-x  
+  
 ![Artefact1](./images/artefact_1.png)  
+  
 Klessascheck, Weber, and Pufahl provide SOPA, a technique for process analysis and redesign from the viewpoint of its environmental impact. In the case study about university recruitment, interviews with stakeholders such as department chairs and the assistant were conducted in order to assess the current process, environmental cost drivers and to find out the parameters of the simulation. This is an example of the fact that human knowledge is needed in case there is not enough process information (Klessascheck, Weber & Pufahl 2025, pp. 504, 516-517).  
   
 The reason why I have chosen this artefact is that it shows how important it is to involve employees and process experts in the process analysis procedure. From this paper, I have found out that while technology can help to make an impact calculation and to compare redesign alternatives, people are needed to describe the activities that take place in the process and interpret the results. Nevertheless, assumptions made during the interview may decrease precision.  
@@ -22,6 +24,9 @@ Klessascheck, F, Weber, I & Pufahl, L 2025, ‘SOPA: a framework for sustainabil
 ## Visual Process Mining for Complex Processes  
 **Artefact type:** Conference paper  
 **Link:** https://ceur-ws.org/Vol-4032/paper-08.pdf.  
+  
+![Artefact2](./images/artefact_2.png)  
+  
 Rubensson shows how process mining turns event data into process models visually. Nevertheless, classic visualisations only describe control flow and may be complicated "spaghetti models" when there are numerous activities and variations in processes. The article suggests a contextual, interactive and optimised visual layout considering such dimensions as time, location and others. Such layouts may assist analysts to investigate complicated processes better (Rubensson 2025, pp. 46-48).  
   
 This artefact was chosen due to the fact that process mining was introduced as one of the approaches to collect and analyse information in Week 3 lecture. From the article, I got knowledge that collecting of event data is useless if analysts cannot interpret it correctly. Interactive visualisations may show process variations, delays and connections that are invisible in static models. Consequently, visual process mining gives a clearer picture of the current process in the organization.  
@@ -31,6 +36,9 @@ Rubensson, C 2025, ‘Visual process mining over time and space’, in H Reijers
 ## Porter’s Value Chain Analysis  
 **Artefact type:** Professional website article  
 **Link:** https://www.thestrategyinstitute.org/insights/value-chain-analysis-explained-boost-efficiency-cut-costs-and-gain-competitive-advantage.  
+  
+![Artefact3](./images/artefact_3.png)  
+  
 The Strategy Institute provides an explanation for how the value chain is used by Porter as a model for analysing how organisational activities provide value to customers and incur costs. The activities are divided into primary activities, which include inbound logistics, operations, sales, and services, and support activities that comprise of human resources, technology, and procurement (The Strategy Institute 2025).  
   
 This particular artefact was chosen as it ties in closely with the lecture on primary processes, support processes, and management processes. From the above article, I learnt that merely improving one department will not improve the entire value chain. The manager needs to analyse the connection between outputs in one activity and another as well as their contribution towards customer value. Thus, value chain analysis is an approach to outside-in BPM.  
@@ -40,6 +48,9 @@ The Strategy Institute 2025, ‘Value chain analysis explained: boost efficiency
 ## Process Mapping for Small Businesses  
 **Artefact type:** Youtube Video  
 **Link:** https://www.youtube.com/watch?v=9UVURYCaKWk  
+  
+![Artefact4](./images/artefact_4.png)  
+  
 Process mapping according to Pomper is an example of visual narrative that helps us see invisible business practices clearly. As seen in the video, the process mapping technique allows business organizations to see the start and end points clearly, understand the activities within them and answer six important questions regarding the way in which the tasks are performed. Through process mapping, organizations can identify the problems, pains in the process and areas of improvement (Pomper 2025).  
   
 The artefact was chosen due to its practicality in helping us understand and improve business processes. Based on the information in the video, I understood that small businesses need to make their processes visible prior to changing them or automating them. The information is related to our study of process discovery and analysis of the “as-is” process.  
