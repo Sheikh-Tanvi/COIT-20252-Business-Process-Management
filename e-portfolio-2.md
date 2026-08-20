@@ -1,6 +1,8 @@
 # Business Process Repository  
 
-# Types of Process Wastes
+# Types of Process Wastes  
+
+# Principles of a Balanced Scorecard  
 
 
 
