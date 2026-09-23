@@ -28,7 +28,7 @@ Raptaki, M, Stergiopoulos, G & Gritzalis, D 2025, ‘Automated cybersecurity imp
 ![Artefact2](./images/artefact_10.png)  
 Mirispelakotuwa considers the connection between RPA and organisational process knowledge loss. RPA can increase efficiency by assigning routine tasks to software robots rather than employees. Nonetheless, significant automation can negatively affect employee knowledge about the process since they will not carry out the process activities anymore. Such situations are dangerous for automation in case there is any failure or need for changes (Mirispelakotuwa 2025, pp. 120-127). This paper was published within the proceedings of the BPM 2025 Doctoral Consortium.  
 
-This artefact is chosen because it discusses one of the limitations of RPA which might be overlooked by organisations. From this paper, I have learnt that in the course of automation decision-making, attention should be paid not only to saving time and money but also to knowledge acquisition and retention.     
+This artefact was chosen because it discusses one of the limitations of RPA which might be overlooked by organisations. From this paper, I have learnt that in the course of automation decision-making, attention should be paid not only to saving time and money but also to knowledge acquisition and retention.     
 **Reference:**  
 Mirispelakotuwa, IUM 2025, ‘Unveiling dynamics between robotic process automation and process knowledge loss’, in H Reijers et al. (eds), Joint proceedings of the Best Dissertation Award, Doctoral Consortium, and Demonstration and Resources Forum at BPM 2025, CEUR Workshop Proceedings, vol. 4032, pp. 120–127, viewed 18 September 2026, https://ceur-ws.org/Vol-4032/paper-17.pdf  
 
